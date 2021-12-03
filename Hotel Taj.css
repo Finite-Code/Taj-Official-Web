@@ -352,21 +352,41 @@ div.table_links{
 
 div.table_items1{
   font-size: 250%;
-  padding: 10px; 
   position: absolute;
   left: -550px;
   top: 375px;
 }
 
-img.image_item1{
-  position: absolute;
-  left: -500px;
-  top: 390px;
+.parent {
+  height: 375px;
+  width: 1650px;
+}
+
+.child {
+  margin: auto;  /* Magic! */
+}
+
+.parent2 {
+  display: flex;
+  height: 375px;
+  width: 100px;
+}
+
+.child2 {
+  margin: auto;  /* Magic! */
+}
+
+.parent3 {
+  height: 375px;
+  width: 1650px;
+}
+
+.child3 {
+  margin: auto;  /* Magic! */
 }
 
 div.table_items2{
   font-size: 250%;
-  padding: 10px; 
   position: absolute;
   left: 0px;
   top: 375px;
@@ -374,7 +394,6 @@ div.table_items2{
 
 div.table_items3{
   font-size: 250%;
-  padding: 10px; 
   position: absolute;
   left: 450px;
   top: 375px;
@@ -382,23 +401,21 @@ div.table_items3{
 
 div.table_items4{
   font-size: 250%;
-  padding: 10px; 
   position: absolute;
-  left: 570px;
-  top: 375px;
+  left: -550px;
+  top: 575px;
 }
+
 div.table_items5{
   font-size: 250%;
-  padding: 10px; 
   position: absolute;
-  left: 570px;
-  top: 375px;
+  left: 0px;
+  top: 575px;
 }
 
 div.table_items6{
   font-size: 250%;
-  padding: 10px; 
   position: absolute;
-  left: 570px;
-  top: 375px;
+  left: 450px;
+  top: 575px;
 }
