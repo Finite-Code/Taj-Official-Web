@@ -300,8 +300,11 @@ div {
       -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
       box-shadow: 0
     }
- .lalalala{
-   padding: 50;
+
+ div.lalalala{
+  padding: 50px;
+  font-family: Brush Script MT;
+  font-size: 300%;
  }
 
  .balala{
@@ -314,4 +317,88 @@ div {
   position: absolute;
   top: 175px;
   size: 100%;
+}
+
+div.the-menu-css{
+  font-size: 300%;
+  font-family:'Courier New', Courier, monospace;
+  position: absolute;
+  top: 150px;
+}
+
+div.table_links1{
+  font-size: 275%;
+  padding: 10px; 
+  position: absolute;
+  left: -500px;
+  top: 250px;
+}
+
+div.table_links2{
+  font-size: 275%;
+  padding: 10px; 
+  position: absolute;
+  left: 0px;
+  top: 250px;
+}
+
+div.table_links{
+  font-size: 275%;
+  padding: 10px; 
+  position: absolute;
+  left: 500px;
+  top: 250px;
+}
+
+div.table_items1{
+  font-size: 250%;
+  padding: 10px; 
+  position: absolute;
+  left: -550px;
+  top: 375px;
+}
+
+img.image_item1{
+  position: absolute;
+  left: -500px;
+  top: 390px;
+}
+
+div.table_items2{
+  font-size: 250%;
+  padding: 10px; 
+  position: absolute;
+  left: 0px;
+  top: 375px;
+}
+
+div.table_items3{
+  font-size: 250%;
+  padding: 10px; 
+  position: absolute;
+  left: 450px;
+  top: 375px;
+}
+
+div.table_items4{
+  font-size: 250%;
+  padding: 10px; 
+  position: absolute;
+  left: 570px;
+  top: 375px;
+}
+div.table_items5{
+  font-size: 250%;
+  padding: 10px; 
+  position: absolute;
+  left: 570px;
+  top: 375px;
+}
+
+div.table_items6{
+  font-size: 250%;
+  padding: 10px; 
+  position: absolute;
+  left: 570px;
+  top: 375px;
 }
